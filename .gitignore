@@ -1,0 +1,19 @@
+# binaries and build output
+/bin/
+/server/data/
+/data/
+
+# frontend
+/web/node_modules/
+/web/dist/
+/web/.vite/
+
+# editor / OS noise
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# environment
+.env
+.env.local
